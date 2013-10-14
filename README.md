@@ -1,1 +1,3 @@
-Implementation of Conway's Game of Live in JavaScript.
+Game of Life
+==============
+Implementation of Conway's Game of Life in JavaScript.
